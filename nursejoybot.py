@@ -1,8 +1,7 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Detective Yellowcopyrightedrat - A Telegram bot to organize Pokémon GO raids
-# Copyright (C) 2017 Jorge Suárez de Lis <hey@gentakojima.me>
+# NurseJoyBot - A Telegram bot to manage Pokémon GO groups
+# Copyright (C) 2018 Marc Rodriguez Garcia <marc@qwert1.es>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -17,16 +16,9 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
-#
-# Command list for @botfather
-# help - Muestra la ayuda
-# register - Inicia el proceso de registro (en privado)
-# raid - Crea una incursión nueva (en grupo)
-# alerts - Configura alertas de incursiones (en privado)
-# raids - Muestra incursiones activas (en privado)
-# profile - Muestra info de tu perfil (en privado)
-# stats - Muestra tus estadísticas semanales (en privado)
-#
+# Based on Detective Yellowcopyrightedrat
+# Copyright (C) 2017 Jorge Suárez de Lis <hey@gentakojima.me>
+
 
 import os
 import sys
