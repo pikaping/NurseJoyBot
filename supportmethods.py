@@ -1,5 +1,7 @@
-# Detective Yellowcopyrightedrat - A Telegram bot to organize Pokémon GO raids
-# Copyright (C) 2017 Jorge Suárez de Lis <hey@gentakojima.me>
+# -*- coding: utf-8 -*-
+#
+# NurseJoyBot - A Telegram bot to manage Pokémon GO groups
+# Copyright (C) 2018 Marc Rodriguez Garcia <marc@qwert1.es>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -13,6 +15,9 @@
 #
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+# Based on Detective Yellowcopyrightedrat
+# Copyright (C) 2017 Jorge Suárez de Lis <hey@gentakojima.me>
 
 import re
 from datetime import datetime, timedelta
